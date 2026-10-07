@@ -1,4 +1,4 @@
-# Joc Tic-Tac-Toe
+# Joc Tic-Tac-Toe_Python
 
 Acest proiect este o implementare simplă a jocului **Tic-Tac-Toe** în Python. Jocul se desfășoară între un jucător și calculator.
 
