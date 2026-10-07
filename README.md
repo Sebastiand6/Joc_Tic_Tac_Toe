@@ -72,5 +72,3 @@ sau:
 ```text
 Egalitate!
 ```
-
-Proiect realizat în scop educațional.
